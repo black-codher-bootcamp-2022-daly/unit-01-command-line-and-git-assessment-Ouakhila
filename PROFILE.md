@@ -10,6 +10,7 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 - Master's degree in computer science at _University of Wolverhampton_
 - Bachelor's degree in Telecommunication engineering at _Ghana Technology University College_
 
+
 ## INTERESTS
 
 - The application of Virtual Reality in various industries, including gaming, real estate, tourism, and education.

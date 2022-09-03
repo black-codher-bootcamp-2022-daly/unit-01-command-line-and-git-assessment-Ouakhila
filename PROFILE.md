@@ -9,7 +9,6 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 - Full Stack developer Bootcamp. Daly cohort _CBF & Niyo Group_
 - Master's degree in computer science at _University of Wolverhampton_
 - Bachelor's degree in Telecommunication engineering at _Ghana Technology University College_
--
 
 ## INTERESTS
 

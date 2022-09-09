@@ -14,11 +14,11 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 
 ## INTERESTS 💥
 
-- The application of Virtual Reality in various industries, including gaming, real estate, tourism, and education.
-- The combination of technology and visual art
-- Photography and editing video
+* The application of Virtual Reality in various industries, including gaming, real estate, tourism, and education.
+* The combination of technology and visual art
+* Photography and editing video
 
-### Links to my favorite websites
+### Links to my favorite websites 👩🏾‍💻
 
 - [freeCodeCamp](https://www.freecodecamp.org/settings)
 - [Blackcodher Learning Platform](https://learning.blackcodher.tech/)

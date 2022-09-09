@@ -42,4 +42,5 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 - [ ] Master Data Structure and Algorithm
 - [ ] Create APIs
 - [ ] Get a job as Junior Software Developer
-[this is what i have learnt so far](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-Ouakhila/blob/main/GITFUNDAMENTALS.md)
+
+* [this is what i have learnt so far](https://github.com/black-codher-bootcamp-2022-daly/unit-01-github-fundamentals-homework-Ouakhila/blob/main/GITFUNDAMENTALS.md)

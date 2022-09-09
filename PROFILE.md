@@ -18,11 +18,11 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 - Photography and editing video
 
 Links to my favorite websites
-[freeCodeCamp](https://www.freecodecamp.org/settings)
-[Blackcodher Learning Platform](https://learning.blackcodher.tech/)
-[exercism.io](https://exercism.org/)
-[hackerrank](https://www.hackerrank.com/dashboard)
-[Netflix](https://www.netflix.com/gb/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
+* [freeCodeCamp](https://www.freecodecamp.org/settings)
+* [Blackcodher Learning Platform](https://learning.blackcodher.tech/)
+* [exercism.io](https://exercism.org/)
+* [hackerrank](https://www.hackerrank.com/dashboard)
+* [Netflix](https://www.netflix.com/gb/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
 
 
 **_ Five *movies* _**

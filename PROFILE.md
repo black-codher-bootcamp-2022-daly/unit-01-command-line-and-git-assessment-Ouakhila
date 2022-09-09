@@ -26,15 +26,15 @@ Links to my favorite websites
 * [Netflix](https://www.netflix.com/gb/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
 
 
-**_ Five *movies* _**
+### **_ Five *movies* and *series*_**
 
 1. When the see us
 2. Black list
 3. Raising Dion
 4. Man from Toronto
-5. Game of Throne
+5. SWAT
 
-Task List of what i want to achieve during the bootcamp
+### Task List of what i want to achieve during the bootcamp
 
 - [ ] Understand Object Oriented Programming
 - [ ] Create web application using React.js

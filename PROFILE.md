@@ -18,7 +18,7 @@ Ouakhilatou decided to change her career path in 2020 in a new country called th
 * The combination of technology and visual art
 * Photography and editing video
 
-Links to my favorite websites
+### Links to my favorite websites 👩🏾‍💻
 * [freeCodeCamp](https://www.freecodecamp.org/settings)
 * [Blackcodher Learning Platform](https://learning.blackcodher.tech/)
 * [exercism.io](https://exercism.org/)
@@ -26,7 +26,7 @@ Links to my favorite websites
 * [Netflix](https://www.netflix.com/gb/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse)
 
 
-### **_ Five *movies* and *series*_**
+### **_ Five *movies* and *series*_** 🎬
 
 1. When the see us
 2. Black list
@@ -34,7 +34,7 @@ Links to my favorite websites
 4. Man from Toronto
 5. SWAT
 
-### Task List of what i want to achieve during the bootcamp
+### Task List of what i want to achieve during the bootcamp 🎯
 
 - [ ] Understand Object Oriented Programming
 - [ ] Create web application using React.js
